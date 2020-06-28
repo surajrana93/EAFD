@@ -57,7 +57,7 @@
                 "type": "PowerShell",
                 "name": "SetupVM",
                 "runElevated": false,
-                "scriptUri": "https://raw.githubusercontent.com/surajrana93/EAFD/master/testPsScript.ps1"
+                "scriptUri": "https://raw.githubusercontent.com/surajrana93/EAFD/master/Test2.ps1"
             },
           
         ],
