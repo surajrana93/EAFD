@@ -56,7 +56,7 @@
             {
                 "type": "PowerShell",
                 "name": "SetupVM",
-                "runElevated": false,
+                "runElevated": true,
                 "scriptUri": "https://raw.githubusercontent.com/surajrana93/EAFD/master/Test2.ps1"
             },
           
