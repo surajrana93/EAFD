@@ -48,7 +48,7 @@
             "type": "PlatformImage",
                 "publisher": "MicrosoftWindowsServer",
                 "offer": "WindowsServer",
-                "sku": "2019-Datacenter",
+                "sku": "Datacenter-Core-1903-with-Containers-smalldisk",
                 "version": "latest"
             
         },
