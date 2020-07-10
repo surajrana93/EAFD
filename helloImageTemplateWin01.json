@@ -53,7 +53,12 @@
             
         },
         "customize": [
-          
+            {
+                "type": "PowerShell",
+                "name": "SetupVM",
+                "runElevated": true,
+                "scriptUri": "https://raw.githubusercontent.com/surajrana93/EAFD/master/Test2.ps1"
+            }
         ],
         "distribute": 
             [
